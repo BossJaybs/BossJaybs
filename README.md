@@ -56,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
 ![GitHub Snake Light](https://raw.githubusercontent.com/BossJaybs/BossJaybs/output/snake.svg)
 
 
