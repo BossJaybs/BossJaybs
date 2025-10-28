@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BossJaybs/BossJaybs/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.blob/BossJaybs/BossJaybs/output/snake.svg" alt="Snake animation" />
 
 ###
 
