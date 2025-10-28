@@ -69,11 +69,6 @@
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=BossJaybs&show_icons=true&count_private=true&theme=dracula&hide_border=false&include_all_commits=true&cache_seconds=1800&custom_title=My%20GitHub%20Stats&token=${{ secrets.PAT_1 }}" 
-    height="150" 
-    alt="GitHub Stats Graph" 
-  />
   
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=BossJaybs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
