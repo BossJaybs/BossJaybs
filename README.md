@@ -58,7 +58,7 @@
 
 ###
 
-![GitHub Snake Light](https://raw.githubusercontent.blob/BossJaybs/BossJaybs/output/snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/BossJaybs/BossJaybs/output/snake.svg)
 
 
 ###
